@@ -2,3 +2,6 @@
 
 # Datasets (in big files)
 data/
+
+# Virtual Environment
+venv/
